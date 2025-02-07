@@ -1,0 +1,16 @@
+As software developers, we develop or write software.   The steps that are often followed in the Software Development Process are as follows:
+
+Steps to Developing Software:
+Decide/Plan how to solve a task or request -- remember to break the task into smaller pieces (units) to be solved
+Write the code to solve the task by first writing code to solve each smaller piece of the solution
+Compile and/or Run the code that has been written.
+Test and Debug the code: 
+Test:  Make sure the code works as designed.  
+Debug:  Track Down and Fix any flaws in the code that you wrote.
+Document exactly what has been coded and how it works.
+
+Testing code is essential to ensure that the code executes exactly as it was designed. Check that the result or output of the program is exactly what is expected.    When a result is not what is expected, a developer needs to debug their code.  
+
+Debugging is the process of  tracking down problems in the code and fixing the problems to make the code execute as expected.  Once you correct the issues, continue to run any tests that you have written to confirm that the code still works.
+
+Unit Testing is one of the most effective ways to test code.  The code is broken into Units, smaller pieces of functionality,, and those units are tested extensively.  This is one way that a software developer can find issues in their initial implementation, and then as the code is modified, to ensure that nothing has broken a  previously correct implementation.
